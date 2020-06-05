@@ -286,7 +286,33 @@ help.
 M:
 No problem. Have a nice afternoon.
 
+50-52
+W:
+Does the number nine train stop at this station?
+M:
+It usually does, but not for the next two month.
+We're doing major repair work on the tracks here and station's going to be closed 
+most of that time.
+W:
+Where can I catch the shuttle bus?
+M:
+At this time of the day, you can get it where the other city bus line stop, behind 
+the main entrance to the terminal. But during rush hours, it stops at the side 
+entrance. The next one leaves in about ten minutes.
 
+
+
+53-55
+M：
+So, Daisy, have you heard back yet about the job you applied for?
+W:
+Yes, I got a phone call yesterday afternoon. I'm going to have an interview with
+personel director tomorrow afternoon.
+M:
+How nice! Where's the interview going to be held?
+W:
+At the company headquarters at Milan Street and 7th Avenue. It's very close to your
+house. Why don't we have dinner tomorrow? I'll tell you all about it.
 
 
 

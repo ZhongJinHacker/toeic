@@ -34,3 +34,7 @@ withdraw (使)撤回，撤离v （ex withdraw some money 取钱）
 though 虽然adv
 narrow alley 狭窄的巷子
 pleasant 令人愉快的
+rush hours 高峰时期n
+shuttle 来往于两地之间的航班(或班车、火车) ex：shuttle bus;
+personnel director 人事主管
+headquarter 总部
