@@ -7,3 +7,7 @@ campaign 运动,活动n
 orphanage 孤儿院n
 proceeds 收益n
 charity 慈善n
+decoration 装饰n
+gallery 画廊，展览馆n
+rug 小地毯n
+metropolitan 大都会n
