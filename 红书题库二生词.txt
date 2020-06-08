@@ -10,4 +10,5 @@ charity 慈善n
 decoration 装饰n
 gallery 画廊，展览馆n
 rug 小地毯n
-metropolitan 大都会n
+metropolitan 大都会n 
+
