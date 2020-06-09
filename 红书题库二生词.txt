@@ -12,3 +12,7 @@ gallery 画廊，展览馆n
 rug 小地毯n
 metropolitan 大都会n 
 
+confidential 保密的，机密的adj
+potential 潜在的adj
+artificial 人造的adj
+progressive 进步的;先进的
