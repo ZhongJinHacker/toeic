@@ -32,3 +32,5 @@ accommodation 住宿n
 compensation 补偿n
 zurich 苏黎世n 
 skyscraper 摩天大楼n
+appetite 食欲n
+continental breakfast 欧式早餐n
