@@ -34,3 +34,5 @@ zurich 苏黎世n
 skyscraper 摩天大楼n
 appetite 食欲n
 continental breakfast 欧式早餐n
+symphony 交响乐n
+deductible 可扣除的，可减免的adj
