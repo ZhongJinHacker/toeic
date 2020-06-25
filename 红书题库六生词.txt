@@ -1,0 +1,3 @@
+stiring 搅拌
+liquid 液体的
+rod 棒子n
