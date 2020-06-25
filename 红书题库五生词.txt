@@ -1,4 +1,12 @@
 seminar 研讨会n
 negotiate 谈判; 磋商v
 clerk 店员n
-attraction
+attraction 吸引力n
+aid 援助，帮助n
+scientific 科学的n
+scarf 围巾n
+charity 慈善n
+celebrities 名人n
+balcony 阳台n
+apartment 公寓n
+affairs 公共事务n
