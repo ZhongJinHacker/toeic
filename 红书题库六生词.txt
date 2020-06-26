@@ -30,3 +30,5 @@ cuisine 菜肴n
 suspension 停职n
 investigation 调查，侦查n
 landslide 塌方v
+upcoming flooding 即将到来的洪水
+evacuation 疏散，撤离n
