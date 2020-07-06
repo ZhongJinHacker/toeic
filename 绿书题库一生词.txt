@@ -18,5 +18,6 @@ renewal 恢复 更新n
 series 一系列
 comedy 喜剧n
 accommodate 容纳，适应vt
-
+affidavit 宣誓书n
+affiliate 联名 连号n 
 
