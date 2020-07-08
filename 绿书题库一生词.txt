@@ -20,4 +20,5 @@ comedy 喜剧n
 accommodate 容纳，适应vt
 affidavit 宣誓书n
 affiliate 联名 连号n 
+affect 影响 感染v 情感n
 
